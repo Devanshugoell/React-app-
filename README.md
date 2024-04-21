@@ -1,0 +1,1 @@
+This website was built using React, and there is a section where we can add new books, edit those books by clicking on the pencil icon, and delete the added book by clicking on the cross icon. The images that will be displayed on the books will be fetched from the API
